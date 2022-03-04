@@ -1,6 +1,9 @@
 <h1>Datenschutzerklärung</h1>
 <span class="small">Stand: 2. März 2022</span>
 <h2>Verantwortliche</h2>
+<p>Digital Democracy Alliance</p>
+<p>info@digital-democracy-alliance.org</p>
+<p><b>Bei Fragen zum Datenschutz:</b></p>
 <p>Rechtsanwältin Dr. Natalya Spuling</p>
 <p>spuling@mein-datenschutzanwalt.de</p>
 <h2>Übersicht der Verarbeitungen</h2>
